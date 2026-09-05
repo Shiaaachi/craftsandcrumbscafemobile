@@ -1,0 +1,15 @@
+node_modules/
+www/
+dist/
+.angular/
+.cache/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
+.vscode/
+android/.gradle/
+android/build/
+android/app/build/
